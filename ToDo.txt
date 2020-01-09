@@ -1,0 +1,18 @@
+6K_BASEMESH PROJECT
+
+(Triangle Budget <= 6.000 tris)
+
+Male Basemesh
+
+	Body
+	Head
+	Eye_L
+	Eye_R
+
+UV-Unwrapping
+
+Female Basemesh (maybe use bones??)
+
+Skeleton Optimization (if time)
+
+Body Feature Bones
